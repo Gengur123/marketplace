@@ -1,0 +1,16 @@
+#receipt {
+  display: none;
+}
+
+.container p {
+  text-align: center;
+  background-color: aliceblue;
+}
+
+.container button {
+  background-color: skyblue;
+}
+
+.container h1 {
+  text-align: center;
+}
