@@ -4,7 +4,7 @@ $(document).ready(function() {
     const nameInput = $("input#name").val();
     const addressInput = $("input#address").val();
     const array = [nameInput, addressInput]
-    array.push("2");
+    array.push("asdfasdfsdfas");
     console.log(array);
     array.pop();
     console.log(array);
